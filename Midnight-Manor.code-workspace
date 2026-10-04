@@ -1,0 +1,8 @@
+{
+  "folders": [{ "name": "Midnight Manor", "path": "." }],
+  "settings": {
+    "files.associations": { "*.luau": "lua" },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  }
+}
